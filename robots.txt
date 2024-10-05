@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zidaboqopuse.pages.dev/sitemap.xml
